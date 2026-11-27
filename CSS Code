@@ -13,7 +13,7 @@ h6,
 
 #outer {
   background: #0C0B0F;
-  background-image: url("https://64.media.tumblr.com/5c1fd4a66247f4e2bee5a9ffab88f3fa/8e175178ef0cbc28-1f/s640x960/4c68c23e12dcbb887c47bac5cd2ea0392d11eeed.jpg");
+  background-image: url("https://64.media.tumblr.com/0f70abe72a40a64e0a9012490aada95d/8e5b95ccd9d556c6-23/s640x960/e399af67663d51f81f0727397419f90726b79357.png");
   background-size: contain;
   background-repeat: repeat;
   background-attachment: fixed;
@@ -340,7 +340,7 @@ fieldset fieldset {
 }
 
 .javascript .filters fieldset {
-  background-image: url("https://64.media.tumblr.com/5c1fd4a66247f4e2bee5a9ffab88f3fa/8e175178ef0cbc28-1f/s640x960/4c68c23e12dcbb887c47bac5cd2ea0392d11eeed.jpg");
+  background-image: url("https://64.media.tumblr.com/0f70abe72a40a64e0a9012490aada95d/8e5b95ccd9d556c6-23/s640x960/e399af67663d51f81f0727397419f90726b79357.png");
   background-size: auto;
   background-repeat: repeat;
   background-attachment: fixed;
