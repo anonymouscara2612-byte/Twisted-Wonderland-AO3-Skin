@@ -14,7 +14,7 @@ h6,
 #outer {
   background: #0C0B0F;
   background-image: url("https://64.media.tumblr.com/5c1fd4a66247f4e2bee5a9ffab88f3fa/8e175178ef0cbc28-1f/s640x960/4c68c23e12dcbb887c47bac5cd2ea0392d11eeed.jpg");
-  background-size: auto;
+  background-size: contain;
   background-repeat: repeat;
   background-attachment: fixed;
 }
