@@ -14,7 +14,7 @@ h6,
 #outer {
   background: #0C0B0F;
   background-image: url("https://i.postimg.cc/FsykTRP9/BG.jpg");
-  background-size: auto;
+  background-size: contain;
   background-repeat: repeat;
   background-attachment: fixed;
 }
